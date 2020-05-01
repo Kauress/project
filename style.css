@@ -24,28 +24,36 @@ body{
 
 }
 #name{
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600;
     letter-spacing: 1px;
 }
 #phone{
   letter-spacing: 1.5px;
   margin-top: -12px;
+  font-size: 18px;
+
 
 }
 #phone-link{
   color:#0556a9;
    font-weight: 900;
+   font-size: 18px;
+
 
 }
 #adhar{
 letter-spacing: 1px;
-font-weight:900
+font-weight:900;
+font-size: 18px;
+
 }
 
 #car{
 letter-spacing: 1px;
-font-weight:900
+font-weight:900;
+font-size: 18px;
+
 }
 
 #city{
@@ -54,7 +62,9 @@ font-weight:900
 }
 #dest{
   letter-spacing: 1px;
-  font-weight:900
+  font-weight:900;
+  font-size: 18px;
+
 }
 
 #destlink{
